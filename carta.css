@@ -1,0 +1,17 @@
+
+.v{
+    display: flex;
+    flex-direction: column;
+}
+.pos{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+}
+.color1{
+    background-color: brown;
+}
+
+.color2{
+    background-color: yellow;
+}
